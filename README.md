@@ -1,6 +1,6 @@
 # Origamid_React
 
-Olá! Me chamo Laura Oliveira e estou iniciando minha jornada no mundo React da força e pretendo documentar nesse repositório minhas evoluções.
+Olá! Me chamo <b>Laura Oliveira</b> e estou iniciando minha <b>jornada no mundo React</b> da força e pretendo documentar nesse repositório minhas evoluções.
 
 Caso você também esteja iniciando no mundo react no momento que visualizar esse repositório ou iniciando no mundo web vou deixar uma trilha de assuntos que você precisa estudar antes de chegar ao react e alguns conceitos básicos sobre react (até para fixar melhor o conhecimento para mim também :v)
 
