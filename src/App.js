@@ -1,11 +1,17 @@
+import React, { useState } from 'react';
 import './App.css';
 
-function App() 
+export default function App() 
 {
+  const [count, setCount] = React.useState(0);
+
   return (
     <div>
       Meu App
-      <Button />
+      <br/>
+      <button onClick={() => {setCount(count + 1)}}> Comprar </button>
+      <p>Quantidade: {count}</p>
+      <p>Total: R$ {count * 250}</p>
     </div>
   );
 }
@@ -20,4 +26,3 @@ function Button()
   return <button onClick={handleClick}> Comprar </button>;
 }
 
-export default App;
